@@ -6,7 +6,7 @@ You were tasked to clean, analyze, and build recommendation features using **pur
 
 ---
 
-## 🚀 Project Overview
+#Project Overview
 
 - **Domain:** Social Media Analytics
 - **Language:** Python (no external libraries)
