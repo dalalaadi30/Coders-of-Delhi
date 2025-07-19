@@ -1,4 +1,4 @@
-# 📊 CodeBook Data Science Internship – Coders of Delhi
+#Coders of Delhi
 
 Welcome to the official GitHub repository for the **Coders of Delhi**. This project simulates a real-world data science project, a social media platform for coders.
 
@@ -14,25 +14,7 @@ You were tasked to clean, analyze, and build recommendation features using **pur
 
 ---
 
-## 📁 Dataset Description
-
-The data is provided in a JSON file with two main components:
-
-- `users`: Contains user `id`, `name`, list of `friends` (user IDs), and `liked_pages` (page IDs).
-- `pages`: Contains page `id` and `name`.
-
-### Sample:
-```json
-{
-  "users": [
-    {"id": 1, "name": "Amit", "friends": [2, 3], "liked_pages": [101]}
-  ],
-  "pages": [
-    {"id": 101, "name": "Python Developers"}
-  ]
-}
-
-Tasks Completed
+#Tasks Completed
 Task 1: Load and Display the Data
 Read and parse the codebook_data.json file.
 
